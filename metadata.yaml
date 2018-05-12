@@ -1,0 +1,40 @@
+_repo: Kalle-Saukko_33937
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hahnsson, Theodolinda
+    aliases:
+    - Hahnsson, Sofia Theodolinda
+    - Yrjo-Koskinen, Theodolinda Limon
+    birthdate: 1838
+    deathdate: 1919
+    gutenberg_agent_id: '5391'
+    url: http://www.gutenberg.org/2009/agents/5391
+    wikipedia: http://fi.wikipedia.org/wiki/Theodolinda_Hahnsson
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blanche, August
+    alias: Blanche, August Teodor
+    birthdate: 1811
+    deathdate: 1868
+    gutenberg_agent_id: '31667'
+    url: http://www.gutenberg.org/2009/agents/31667
+    wikipedia: http://en.wikipedia.org/wiki/August_Blanche
+description: ''
+gutenberg_issued: '2010-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33937'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+title: Kalle Saukko
+url: http://www.gutenberg.org/ebooks/33937
